@@ -1,6 +1,7 @@
 # Fake Lib Module
 
 > **Lưu ý:** Module được chia sẻ hoàn toàn **MIỄN PHÍ**. Nếu bạn thấy hữu ích, hãy để lại **1 ⭐ Star** để ủng hộ tác giả nhé!
+
 > **Cần ẩn root trước khi chơi. Ẩn kỹ thì sẽ chấp tố cáo!**
 ---
 
